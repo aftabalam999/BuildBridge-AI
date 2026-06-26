@@ -349,7 +349,7 @@ This project is developed for educational purposes and hackathons.
 
 BuildBridge AI Team
 
-* Frontend Developer
+* Frontend Developer - Sunil Kumar
 * Backend Developer
 * AI Developer
 
